@@ -1,7 +1,7 @@
 # Ghost Dentist
 
 ## General Description
-Ghost Dentist is a 2D game inspired by Crocodile Dentist. A ghost with theeth will appear on the screen once the game starts. One of those teeth wil be randomly selected as being a cursed tooth.
+Ghost Dentist is a 2D game inspired by Crocodile Dentist. A ghost with teeth will appear on the screen once the game starts. One of those teeth wil be randomly selected as being a cursed tooth.
 Players will select the ghost's teeth using an arduino joystick, and they will have 30 seconds to choose teeth until the timer runs out. The goal of the game is to select as many good teeth, before the 
 timer runs out, or before selecting the cursed tooth. If a player selects a good tooth, a green LED on the arduino will light up. If they slect the cursed tooth, a red LED will light up, the ghost
 will become angry, and then both LED's will alternatively flash signaling that the game is over. 
