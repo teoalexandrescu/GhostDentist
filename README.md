@@ -10,6 +10,7 @@ will become angry, and then both LED's will alternatively flash signaling that t
 - p5.js
 - Arduino
 - Tone.js
+- Piskel
 
 ## Hardware
 - 2 LED's
