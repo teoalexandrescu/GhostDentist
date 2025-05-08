@@ -26,5 +26,5 @@ will become angry, and then both LED's will alternatively flash signaling that t
 ![Screenshot 2025-05-07 221715](https://github.com/user-attachments/assets/2ff43a6f-e21e-4f89-98c4-07dde2e81e6f)
 ![image_67514881](https://github.com/user-attachments/assets/7d6fc486-baa7-4991-80df-458965220a9a)
 
-## Links to video
-Link : [Link Text]([#sample-section](https://youtu.be/EqT1eNq0W28)).
+## Link to Video
+Link : [[Link Text](https://youtu.be/EqT1eNq0W28)]([#sample-section](https://youtu.be/EqT1eNq0W28)).
